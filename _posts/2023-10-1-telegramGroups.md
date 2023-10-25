@@ -17,14 +17,14 @@ tags:
 <table>
     <td align="center">
       <a href="https://t.me/captainGameBot">
-        <img src="../img/hb.jpg" width="345px;" alt="1"/>
+        <img src="https://digilifetech.github.io/img/hb.jpg" width="345px;" alt="1"/>
       </a>
       <br />
       <a href="https://t.me/captainGameBot">搭建电报游戏-扫雷机器人</a>
     </td>
     <td align="center">
       <a href="http://tggame.site/product/">
-        <img src="../img/lh1.jpg" width="345px;" alt="2"/>
+        <img src="https://digilifetech.github.io/img/lh1.jpg" width="345px;" alt="2"/>
       </a>
       <br />
       <a href="http://tggame.site/product/">搭建老虎机游戏</a>
