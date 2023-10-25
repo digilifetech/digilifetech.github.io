@@ -57,8 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-Disqus:
-    disqus_username: disqus_4ReAGGowBr
+disqus_username: disqus_4ReAGGowBr
 
 # Gitalk
 # gitalk:
