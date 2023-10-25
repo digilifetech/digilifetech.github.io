@@ -1,4 +1,18 @@
-# TelegramGroup
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      电报群组、频道、机器人 集合 				# 标题 
+subtitle:   收集一些有趣的电报频道、群组，欢迎投稿 #副标题
+date:       2023-02-06 				# 时间
+author:     队长游戏 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:
+    - 电报群组,								#标签
+    - 电报频道
+    - 电报机器人
+    - 电报游戏搭建
+---
+# TelegramGroups
 
 <table>
     <td align="center">
@@ -20,7 +34,7 @@
 
 </table>
 
-##### 推荐[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%8E%A8%E8%8D%90)
+##### 推荐[](https://digilifetech.github.io/)
 
 *   Telegram 红包扫雷群:[https://t.me/yxbjx/duizhanghb](https://t.me/duizhanghb)
 *   Telegram 老虎机机器人:[https://t.me/yxbjx/laohujiGame_bot](https://t.me/yxbjx/laohujiGame_bot)
@@ -30,7 +44,7 @@
 *   Telegram 十万人群:[https://t.me/yxbjx](https://t.me/yxbjx)
 *   Telegram 中文圈:[https://t.me/tgzhcn](https://t.me/tgzhcn)
 
-### 群组 Group[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BE%A4%E7%BB%84-group)
+### 群组 Group[](https://digilifetech.github.io/)
 
 ###### 京豆
 
@@ -41,7 +55,7 @@
 *   互助研究院:[https://t.me/update_help](https://t.me/update_help)
 *   Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
 
-###### 番茄[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99)
+###### 番茄[](https://digilifetech.github.io/)
 
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
 *   机场交流群:[https://t.me/rixCloud_User](https://t.me/rixCloud_User)
@@ -230,7 +244,7 @@
 *   SSRSpeed N 使用交流:[https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)
 *   iQZone:[https://t.me/iQ_Zone](https://t.me/iQ_Zone)
 
-###### 软件[](https://congcong0806.github.io/2018/04/24/Telegram/#%E8%BD%AF%E4%BB%B6)
+###### 软件[](https://digilifetech.github.io/)
 
 *   Microsoft users:[https://t.me/Microsofthelp](https://t.me/Microsofthelp)
 *   捷径 Shortcuts:[https://t.me/SiriShortcuts](https://t.me/SiriShortcuts)
@@ -323,7 +337,7 @@
 *   DEVONthink Chinese:[https://t.me/DEVONthink](https://t.me/DEVONthink)
 *   Filebox 官方群:[https://t.me/FileboxApp](https://t.me/FileboxApp)
 
-###### 社群[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%A4%BE%E7%BE%A4)
+###### 社群[](https://digilifetech.github.io/)
 
 *   Telegram 中文社群:[https://t.me/yxbjx](https://t.me/yxbjx)
 *   Vultr 中文社群:[https://t.me/vultr_group](https://t.me/vultr_group)
@@ -836,7 +850,7 @@
 *   闲蛋面板🥚交流群:[https://t.me/xdzzmb](https://t.me/xdzzmb)
 *   加密货币爱好者:[https://t.me/twittercryptofans](https://t.me/twittercryptofans)
 
-###### 播客[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%92%AD%E5%AE%A2)
+###### 播客[](https://digilifetech.github.io/)
 
 *   Checked.FM 听众群:[https://t.me/joinchat/Ag98Fw0TEeBh2Xz8s0d9mg](https://t.me/joinchat/Ag98Fw0TEeBh2Xz8s0d9mg)
 *   一天世界:[https://t.me/ipn_yitianshijie](https://t.me/ipn_yitianshijie)
@@ -860,7 +874,7 @@
 *   津津乐道听友交流:[https://t.me/htnpodcast](https://t.me/htnpodcast)
 *   捕蛇者说讨论组:[https://t.me/joinchat/Dm8lIVjvCo9_-6YZYLycEw](https://t.me/joinchat/Dm8lIVjvCo9_-6YZYLycEw)
 
-###### Telegram[](https://congcong0806.github.io/2018/04/24/Telegram/#telegram)
+###### Telegram[](https://digilifetech.github.io/)
 
 *   Durov’s Chat:[https://t.me/durovschat](https://t.me/durovschat)
 *   官方翻译支持群 English:[https://t.me/translation_en](https://t.me/translation_en)
@@ -914,7 +928,7 @@
 *   64Gram:[https://t.me/tg_x64](https://t.me/tg_x64)
 *   telegram.Bot:[https://t.me/pythontelegrambotgroup](https://t.me/pythontelegrambotgroup)
 
-###### 地区群[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%9C%B0%E5%8C%BA%E7%BE%A4)
+###### 地区群[](https://digilifetech.github.io/)
 
 *   深圳:[https://t.me/shenzhenbot?start=join](https://t.me/shenzhenbot?start=join)
 *   深圳:[https://t.me/shenzhentg](https://t.me/shenzhentg)
@@ -938,7 +952,7 @@
 *   河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
 *   河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
 
-###### 新冠肺炎[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E)
+###### 新冠肺炎[](https://digilifetech.github.io/E)
 
 *   #nCoV 主群（疫区疫情新闻 / 互助）:[https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg](https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg)
 *   #nCoV 武汉封城自由讨论区:[https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA](https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA)
@@ -951,7 +965,7 @@
 *   新冠肺炎 (COVID-19) 讨论群:[https://t.me/CoronavirusDiscuss](https://t.me/CoronavirusDiscuss)
 *   美国华人抗冠状病毒群:[https://t.me/FightSARI](https://t.me/FightSARI)
 
-###### 其他[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%85%B6%E4%BB%96)
+###### 其他[](https://digilifetech.github.io/)
 
 *   Coder Offtopic 中文群:[https://t.me/coder_ot](https://t.me/coder_ot)
 *   BoastTG:[https://t.me/BoastTG](https://t.me/BoastTG)
@@ -1088,9 +1102,9 @@
 *   养鸽交流中心:[https://t.me/joinchat/MM1WQu5HEHlhZjU9](https://t.me/joinchat/MM1WQu5HEHlhZjU9)
 *   一起充电群:[https://t.me/letsbuycharger](https://t.me/letsbuycharger)
 
-##### 频道 Channel[](https://congcong0806.github.io/2018/04/24/Telegram/#%E9%A2%91%E9%81%93-channel)
+##### 频道 Channel[](https://digilifetech.github.io/)
 
-###### Telegram[](https://congcong0806.github.io/2018/04/24/Telegram/#telegram-1)
+###### Telegram[](https://digilifetech.github.io/)
 
 *   Durov’s Channel（Telegram 创始人兼 CEO 的频道）:[https://t.me/durov](https://t.me/durov)
 *   Telegram 官方诈骗举报:[https://t.me/notoscam](https://t.me/notoscam)
@@ -1175,7 +1189,7 @@
 *   捷报 News:[https://t.me/JieBaoNews](https://t.me/JieBaoNews)
 *   PagerMaid-Modify Update:[https://t.me/PagerMaid_Modify](https://t.me/PagerMaid_Modify)
 
-###### 翻墙[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99-1)
+###### 翻墙[](https://digilifetech.github.io/)
 
 *   毒药机场测速 SS/SSR:[https://t.me/DuyaoSS](https://t.me/DuyaoSS)
 *   V1 Blog 科技 生活 SpeedTest 主机评测:[https://t.me/V1_BLOG](https://t.me/V1_BLOG)
@@ -1294,7 +1308,7 @@
 *   黑科技 TG 代理:[https://t.me/iPoject](https://t.me/iPoject)
 *   SSRSpeed N 更新频道:[https://t.me/SSRSpeed_N](https://t.me/SSRSpeed_N)
 
-###### 软件[](https://congcong0806.github.io/2018/04/24/Telegram/#%E8%BD%AF%E4%BB%B6-1)
+###### 软件[](https://digilifetech.github.io/)
 
 *   App 限免精选:[https://t.me/appfans](https://t.me/appfans)
 *   App 资讯聚合:[https://t.me/app_news_cn](https://t.me/app_news_cn)
@@ -1379,7 +1393,7 @@
 *   Anti Revoke Plugin - 防撤回插件:[https://t.me/AntiRevoke](https://t.me/AntiRevoke)
 *   Typecho Dev Channel:[https://t.me/typechodev](https://t.me/typechodev)
 
-###### 媒体[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%AA%92%E4%BD%93)
+###### 媒体[](https://digilifetech.github.io/)
 
 *   Telegram 中文 NEWS:[https://t.me/YinxiangBiji_News](https://t.me/YinxiangBiji_News)
 *   Vultr News:[https://t.me/vultr_news](https://t.me/vultr_news)
@@ -1686,7 +1700,7 @@
 *   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
 
-###### 新冠肺炎[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-1)
+###### 新冠肺炎[](https://digilifetech.github.io)
 
 *   2019-nCoV 疫情实时播报🅥:[https://t.me/nCoV2019](https://t.me/nCoV2019)
 *   新型冠状病毒最新疫情推送频道:[https://t.me/CoronavirusNews](https://t.me/CoronavirusNews)
@@ -1713,7 +1727,7 @@
 *   香港:[https://t.me/HKFIGHTCOVID19](https://t.me/HKFIGHTCOVID19)
 *   德国:[https://t.me/corona_infokanal_bmg](https://t.me/corona_infokanal_bmg)
 
-###### 其他[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%85%B6%E4%BB%96-1)
+###### 其他[](https://digilifetech.github.io)
 
 *   频道 / 群组 / 机器人分享:[https://t.me/hao123f](https://t.me/hao123f)
 *   Animated Stickers:[https://t.me/AnimatedStickers](https://t.me/AnimatedStickers)
@@ -2295,9 +2309,9 @@
 *   瞎玩菌:[https://t.me/blindgamer](https://t.me/blindgamer)
 *   Tesla China 🅥:[https://t.me/Teslacn](https://t.me/Teslacn)
 
-##### 机器人 Bot[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%9C%BA%E5%99%A8%E4%BA%BA-bot)
+##### 机器人 Bot[](https://digilifetech.github.io)
 
-###### 官方认证 Bot[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81-bot)
+###### 官方认证 Bot[](https://digilifetech.github.io)
 
 *   [BotFather](https://t.me/BotFather) 是所有机器人的 god 了，Telegram 官方管理；可以用它创建机器人和管理机器人，你可以利用机器人 API, 帮你自己很多事情
 *   [IFTTT](https://t.me/IFTTT) ifttt 的官方机器人，可以很方便的和 ifttt 里的其他服务连接，比如订阅某个网站的 RSS, 如果有更新就会自动把 RSS 内容推送到这个机器人，减少了频繁刷新网站来获取新的内容
@@ -2316,7 +2330,7 @@
 *   [ContestBot](https://t.me/ContestBot) ContestBot is a way for Telegram to hold online competitions and find new members for the Telegram team.
 *   [QuizBot](https://t.me/QuizBot) Create a quiz with several multiple choice questions and test your friends.
 
-###### 其他[](https://congcong0806.github.io/2018/04/24/Telegram/#%E5%85%B6%E4%BB%96-2)
+###### 其他[](https://digilifetech.github.io)
 
 *   [聪聪 Bot](https://t.me/congcongx_bot) Telegram 知识 / 中文汉化，机场推荐，SS/SSR 下载，数码荔枝优惠劵，少数派 Power+ 2.0 优惠劵，Office 365 靠谱拼车，正版软件折扣…
 *   [这个我知道](https://t.me/keyword_reply_bot) 本机器人能够自动回复关键词对应的内容
@@ -2468,10 +2482,6 @@
 
 （排名不分先后）
 
-##### Telegram 相关链接[](https://congcong0806.github.io/2018/04/24/Telegram/#telegram-%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5)
+##### Telegram 相关链接[](https://digilifetech.github.io)
 
-*   [Telegram 知识](https://congcong0806.github.io/2019/04/11/Telegram)
-*   [Telegram 官方客户端支持中文语言](https://congcong0806.github.io/2019/02/21/Telegram)
-*   [Telegram 各个系统客户端地址](https://congcong0806.github.io/2019/01/08/Telegram)
-*   [Telegram 群组、频道、机器人 - 汇总分享](https://congcong0806.github.io/2018/04/24/Telegram)
-*   [Telegram 中文搜索解决方案](https://congcong0806.github.io/2019/11/04/TelegramSearch)
+*   [Telegram 游戏搭建](https://t.me/duizhangGame)
