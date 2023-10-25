@@ -1,17 +1,4 @@
----
-layout:     post   				    # 使用的布局（不需要改）
-title:      电报群组、频道、机器人 集合 				# 标题 
-subtitle:   收集一些有趣的电报频道、群组，欢迎投稿 #副标题
-date:       2023-02-06 				# 时间
-author:     队长游戏 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:
-    - 电报群组,								#标签
-    - 电报频道
-    - 电报机器人
-    - 电报游戏搭建
----
+
 # TelegramGroups
 
 <table>
