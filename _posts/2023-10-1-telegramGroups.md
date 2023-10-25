@@ -7,7 +7,7 @@ author:     队长游戏 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:
-    - 电报群组,								#标签
+    - 电报群组								#标签
     - 电报频道
     - 电报机器人
     - 电报游戏搭建
@@ -17,14 +17,14 @@ tags:
 <table>
     <td align="center">
       <a href="https://t.me/captainGameBot">
-        <img src="http://tggame.site/media/images/v2-0f26389398b8d295ca1ca73109b9141.2e16d0ba.fill-400x400.png" width="345px;" alt="1"/>
+        <img src="../img/hb.jpg" width="345px;" alt="1"/>
       </a>
       <br />
       <a href="https://t.me/captainGameBot">搭建电报游戏-扫雷机器人</a>
     </td>
     <td align="center">
       <a href="http://tggame.site/product/">
-        <img src="http://tggame.site/media/images/WeiXinTuPian_20230918155307.2e16d0ba.fill-400x400.png" width="345px;" alt="2"/>
+        <img src="../img/lh1.jpg" width="345px;" alt="2"/>
       </a>
       <br />
       <a href="http://tggame.site/product/">搭建老虎机游戏</a>
