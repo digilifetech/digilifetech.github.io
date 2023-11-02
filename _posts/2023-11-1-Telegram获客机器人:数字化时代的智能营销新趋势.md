@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      Telegram获客机器人：数字化时代的智能营销新趋势 			# 标题 
 subtitle:   如何利用Telegram获客机器人提高获客效率和客户互动 #副标题
-date:       2023-10-1				# 时间
+date:       2023-11-1				# 时间
 author:     队长游戏 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
