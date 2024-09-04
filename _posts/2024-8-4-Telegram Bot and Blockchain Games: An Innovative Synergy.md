@@ -1,8 +1,8 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Telegram Bot and Blockchain Games: An Innovative Synergy				# 标题 
+title:      Telegram Bot and Blockchain Games:An Innovative Synergy				# 标题 
 subtitle:   使用telegram bot api开发一款区块链游戏机器人 #副标题
-date:       2024-8-3				# 时间
+date:       2024-8-4				# 时间
 author:     队长游戏 						# 作者
 header-img: img/lotto_statics.jpg	#这篇文章标题背景图片
 catalog: true 						# 是否归档
