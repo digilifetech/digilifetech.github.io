@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      电报机器人开发之从0开始搭建游戏机器人和MiniApps机器人				# 标题 
 subtitle:   以彩票游戏为基础演示从0开始搭建一套电报游戏机器人和telegram miniapps #副标题
-date:       2024-8-30				# 时间
+date:       2024-9-4				# 时间
 author:     队长游戏 						# 作者
 header-img: img/lotto_tongji.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
