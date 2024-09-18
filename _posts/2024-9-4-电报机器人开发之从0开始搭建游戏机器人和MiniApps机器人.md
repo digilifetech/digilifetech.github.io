@@ -39,17 +39,17 @@ Telegram MiniApps支持跨平台运行，无论是在iOS、Android还是桌面�
 
 # 电报游戏机器人创建(telegram game bot)
 - 已经申请了telegram bot之后，将bot转为game bot，在BotFather对话中，输入/newgame，如下图，根据BotFather引导来填写信息，提示后 选择 OK 按钮
-    ![create new game](./img/8-30-newgame.png "创建new game")
+    ![create new game](../img/8-30-newgame.png "创建new game")
 - 机器人会提示有一些用户协议要求，选择Accept
-    ![create new game](./img/8-30-accept.png "Botfather 引导填写内容")
+    ![create new game](../img/8-30-accept.png "Botfather 引导填写内容")
 - 之后机器人会提示要求选择一个机器人的username，这里用我们创建的telegram bot来做为telegram miniApps 游戏服务机器人
-    ![create new game](./img/8-30-setname.png "Botfather 引导填写内容")
+    ![create new game](../img/8-30-setname.png "Botfather 引导填写内容")
 - 接下来设置这个game的名称，比如这里我们起名：乐透彩票
-    ![create new game](./img/8-30-setnickname.png "Botfather 引导填写内容")
+    ![create new game](../img/8-30-setnickname.png "Botfather 引导填写内容")
 - 接下来需要输入对这个游戏机器人的描述，可以输入游戏的说明、游戏规则等,比如输入：智能合约彩票telegram MiniApps，公平公正，结果可验证，采用第三方chainlink VRF链上随机算法，结果不可更改。然后是要求上传一张图片，可以做一张效果图上传。
-    ![create new game](./img/8-30-description.png "Botfather 引导填写内容")
+    ![create new game](../img/8-30-description.png "Botfather 引导填写内容")
 - 接下来设置GIF图片，这个是在用户打开机器人的时候展示的，可以先跳过。选择一个短名称，比如我们填写：lotto。此时就已经创建成功，可以输入/mygames 来查看详细信息
-    ![create new game](./img/8-30-shortname.png "Botfather 引导填写内容")
+    ![create new game](../img/8-30-shortname.png "Botfather 引导填写内容")
 
 至此，telegram game bot已经创建完毕。接下来就是对接bot api和游戏逻辑。
 
