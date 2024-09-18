@@ -97,7 +97,7 @@ umerBase {
     交互功能: 实现用户注册、登录、下注、查询等功能。
     与后端交互: 通过 Axios 或其他 HTTP 客户端库调用后端 API，实现数据交互。
 如图所示：
-![contract lottery game ](./img/lotto_buy.jpg "智能合约彩票游戏")
+![contract lottery game ](../img/lotto_buy.jpg "智能合约彩票游戏")
 
 #### Chainlink VRF 集成
     配置: 在 Chainlink VRF 上配置合约，设置请求参数、回调函数等。
